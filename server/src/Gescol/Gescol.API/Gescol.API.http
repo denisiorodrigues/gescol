@@ -1,0 +1,6 @@
+@Gescol.API_HostAddress = http://localhost:5183
+
+GET {{Gescol.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
